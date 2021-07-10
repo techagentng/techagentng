@@ -1,6 +1,6 @@
 ## Hello 👋 and welcome 🎉 to my profile.
 
-### Through 8 years of WEB and MOBILE development
+### Through 4 years of WEB and MOBILE development
 - 🚀 I respect and understand clients' needs, my goal is to give customers 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
@@ -11,6 +11,7 @@
 
 #### CORE SKILLS
 - ⭐ OOP life style
+- ⭐ Golang
 - ⭐ ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
 - ⭐ PHP | Laravel | Symfony | CodeIgniter | Yii | Unit test
 - ⭐ Shopify | WordPress | Magento | Drupal
