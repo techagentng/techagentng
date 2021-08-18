@@ -16,9 +16,7 @@
 - ⭐ PHP | Laravel | Symfony | CodeIgniter | Yii | Unit test
 - ⭐ Shopify | WordPress | Magento | Drupal
 - ⭐ HTML | Jquery | Javascript | CSS | Bootstrap | SCSS
-- ⭐ Firebase | Dart | Flutter | React Native
 - ⭐ DevOps | AWS | Docker | Heroku | Git
-- ⭐ Ecommerce | Shipping | Payment gateways | RESTful API | B2B | Scraping | Marketplace | The 3rd party APIs integration | OpenCV
 #### SERVICES
 - 💬 Responsible communication (any time).
 - 🕗 Flexible Time Zone.
