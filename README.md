@@ -10,12 +10,11 @@
 - 📫 Contact me today **techagentng@gmail.com** and **[Join on Skype](https://join.skype.com/invite/fpKS7tllpzbq)**.
 
 #### CORE SKILLS
-- ⭐ OOP life style
 - ⭐ Golang
 - ⭐ ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
-- ⭐ PHP | Laravel | Symfony | CodeIgniter | Yii | Unit test
-- ⭐ Shopify | WordPress | Magento | Drupal
-- ⭐ HTML | Jquery | Javascript | CSS | Bootstrap | SCSS
+- ⭐ PHP
+- ⭐ Shopify | WordPress | CraftCMS
+- ⭐ HTML | Jquery | Javascript | CSS | Bootstrap | MUI
 - ⭐ DevOps | AWS | Docker | Heroku | Git
 #### SERVICES
 - 💬 Responsible communication (any time).
