@@ -1,6 +1,6 @@
 ## Hello 👋 and welcome 🎉 to my profile.
 
-### Through 2 years of active Web Application Development
+### Through 2 years of Web Application Development
 - 🚀 I respect and understand clients' needs, my goal is to give customers 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
@@ -12,7 +12,6 @@
 #### CORE SKILLS
 - ⭐ Golang
 - ⭐ ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
-- ⭐ PHP
 - ⭐ Shopify | WordPress | CraftCMS
 - ⭐ HTML | Jquery | Javascript | CSS | Bootstrap | MUI
 - ⭐ DevOps | AWS | Docker | Heroku | Git
