@@ -11,7 +11,7 @@
 
 #### CORE SKILLS
 - ⭐ Golang
-- ⭐ ReactJS | ExpressJS | NodeJS | VueJS | Nuxt | Angular
+- ⭐ ReactJS | ExpressJS | NodeJS 
 - ⭐ Shopify | WordPress | CraftCMS
 - ⭐ HTML | Jquery | Javascript | CSS | Bootstrap | MUI
 - ⭐ DevOps | AWS | Docker | Heroku | Git
